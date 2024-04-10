@@ -16,7 +16,7 @@ body {
 }
 
 .start {
-  background-image: url(/src/static/menu.jpeg);
+  background-image: url(/src/static/basecraftlogo.png);
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
